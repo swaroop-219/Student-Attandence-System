@@ -84,7 +84,7 @@ function App() {
               <tr>
                 <th>Name</th>
                 <th>Status</th>
-                <th>Action</th>
+                <th>Actions</th>
               </tr>
             </thead>
             <tbody>
